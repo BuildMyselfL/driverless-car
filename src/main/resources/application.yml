@@ -1,0 +1,10 @@
+# 停车场x
+sideLength: 4
+# 停车场y
+edgeWidth: 4
+# 车辆初始化方向 N S W E
+direction: N
+# 车辆初始化处于的 X
+positionX: 1
+# 车辆初始化处于的 Y
+positionY: 1
